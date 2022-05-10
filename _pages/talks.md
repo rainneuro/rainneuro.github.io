@@ -7,6 +7,8 @@ author_profile: true
 
 * Poster presentation at *The 14th Annual Meeting of the Social & Affective Neuroscience Society (SANS)*: Individual variation in neurophysiological representation of negative emotional experiences is shaped by sociability: A naturalistic neuroimaging approach
 
+[avatar](/files/SANS2022.png)
+
 * Workshop on psychophysiological data processing in *Python*, Center for Cognitive and Brain Sciences, University of Macau, Sep 2021
 
 * Worshop on EEG preprocessing pipeline in MATLAB, Center for Cognitive and Brain Sciences, University of Macau, Sep 2021
