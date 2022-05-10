@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Publications
-- Peng, A#., **Wang, R#.**, Huang, J., Wu, H., & Chen, L. Abnormalities of resting-state electroencephalographic microstate in REM sleep behavior disorder. *Frontiers in Human Neuroscience*, 607. doi: https://doi.org/10.3389/fnhum.2021.728405 [[fulltext](/assets/paper/Abnormalities of Resting-State Electroencephalographic Microstate in REM sleep behavior disorder.pdf)]
+- Peng, A#., **Wang, R#.**, Huang, J., Wu, H., & Chen, L. Abnormalities of resting-state electroencephalographic microstate in REM sleep behavior disorder. *Frontiers in Human Neuroscience*, 607. doi: https://doi.org/10.3389/fnhum.2021.728405 [[fulltext](/files/MS_rsEEG_REM.pdf)]
 - Wang, Y., **Wang, R.**, & Wu, H. (2021). The role of oxytocin in modulating self-other distinction brain: a pharmacological fMRI study. *Cerebral Cortex*. bhac167, https://doi.org/10.1093/cercor/bhac167 [[fulltext](/assets/paper/CC_OT_face.pdf)]
 
 
