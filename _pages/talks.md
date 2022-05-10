@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* Poster presentation at *The 14th Annual Meeting of the Social & Affective Neuroscience Society (SANS)*: Individual variation in neurophysiological representation of negative emotional experiences is shaped by sociability: A naturalistic neuroimaging approach
+* Poster presentation at *The 14th Annual Meeting of the Social & Affective Neuroscience Society (SANS)*: Individual variation in neurophysiological representation of negative emotional experiences is shaped by sociability: A naturalistic neuroimaging approach. [[Poster]](files/sans2022.PNG)<br><br>
 
 [avatar](/files/sans2022.PNG)
 
