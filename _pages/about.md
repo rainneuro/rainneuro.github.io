@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: "Welcome!"
-excerpt: "WELCOME!"
-author_profile: true
+excerpt: "Welcome!"
 redirect_from: 
   - /about/
   - /about.html
+author_profile: true
 ---
 
 Ruien Wang is a undergraduate student of psychology and cognitive neuroscience at the Centre for Cognitive and Brain Sciences & Department of Psychology (PI: Prof. Haiyan Wu) at University of Macau, Macau SAR, China. Generally, he is insterested in human social cognition and its interaction with emotion.
