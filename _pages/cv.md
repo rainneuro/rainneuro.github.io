@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://rainneuro.github.io/files/CV_Ruien_Wang.pdf" type="application/pdf" />
+<embed src="https://rainneuro.github.io/files/rain_CV.pdf" type="application/pdf" />
