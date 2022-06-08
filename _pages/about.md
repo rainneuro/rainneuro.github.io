@@ -8,6 +8,4 @@ redirect_from:
 author_profile: true
 ---
 
-Ruien Wang is a undergraduate student of psychology and cognitive neuroscience at the Centre for Cognitive and Brain Sciences & Department of Psychology (PI: Prof. Haiyan Wu) at University of Macau, Macau SAR, China. Generally, he is insterested in human social cognition and its interaction with emotion.
-
-I am going to join the Queen's Neuroeconomics lab at Queen's University as a Master stuent under the supervision of Prof. Anita Tusche this fall! I will contiue my research on social neuroscience during my graduate studies.
+Hello! I'm Ruien Wang, currently a graduate student of cognitive neuroscience at Department of Psychology and Queen's Neuroeconomics lab (PI: Prof. Anita Tusche) at Queen's University, Ontario, Canada. Generally, my research interest focus on social cognitive and affective neuroscience, and aim to delineate the social brain in the real world.
