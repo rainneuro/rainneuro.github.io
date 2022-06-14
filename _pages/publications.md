@@ -7,7 +7,7 @@ author_profile: true
 
 - Peng, A#., **Wang, R#.**, Huang, J., Wu, H., & Chen, L. (2021). Abnormalities of resting-state electroencephalographic microstate in REM sleep behavior disorder. *Frontiers in Human Neuroscience*, 607. doi: https://doi.org/10.3389/fnhum.2021.728405. [[fulltext](/files/MS_rsEEG_REM.pdf)]<br><br>
 - Wang, Y., **Wang, R.**, & Wu, H. (2022). The role of oxytocin in modulating self-other distinction brain: a pharmacological fMRI study. *Cerebral Cortex*. bhac167, https://doi.org/10.1093/cercor/bhac167. [[fulltext](/files/CC_OT_face.pdf)]<br><br>
-- Gao, F., **Wang, R.**, Paulo, Armada., Wang, M., Li, H., Yuan, Z. How the brain encodes the morphological constraints during Chinese word reading: An fNIRS-EEG study. *Cortex*. 2022, ISSN 0010-9452, https://doi.org/10.1016/j.cortex.2022.05.016.<br><br>
+- Gao, F., **Wang, R.**, Paulo, Armada., Wang, M., Li, H., Yuan, Z. (2022). How the brain encodes the morphological constraints during Chinese word reading: An fNIRS-EEG study. *Cortex*. ISSN 0010-9452, https://doi.org/10.1016/j.cortex.2022.05.016.<br><br>
 
 
 ## Submitted manuscripts
