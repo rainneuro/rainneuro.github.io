@@ -12,11 +12,6 @@ author_profile: true
 - Gao, F., **Wang, R.**, Paulo, Armada., Wang, M., Li, H., Yuan, Z. (2022). How the brain encodes the morphological constraints during Chinese word reading: An fNIRS-EEG study. *Cortex*. ISSN 0010-9452, https://doi.org/10.1016/j.cortex.2022.05.016. [[fulltext](/files/morpho_cortex.pdf)]<br><br>
 
 
-## Submitted manuscripts
-
-- **Wang, R.#**, Peng, A.#, Huang, J., Chen, L. & Wu, H. Electrophysiological signature in patients with obstructive sleep apnea syndrome: evidence from visual-search task. *Sleep Medicine*. [under review]<br><br>
-
-
 
 ## Manuscripts in preparation
  
