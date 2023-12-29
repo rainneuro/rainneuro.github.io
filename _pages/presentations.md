@@ -4,7 +4,7 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-## Presentations
+
 *July 2023* &nbsp; Otto Lab, Department of Psychology, McGill University                              
 `Talk` Individual variation in the neurophysiological representation of negative emotions in virtual reality is shaped by sociability
 
