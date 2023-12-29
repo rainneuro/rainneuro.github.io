@@ -11,7 +11,7 @@ Humans are inherently social species, and the ability to successfully navigate s
 My research aims to:\
 (1) elucidate the behavioral and neurocomputational mechanism of individual variation of social cognition in both lab and real-world contexts using a multidisciplinary method.\
 (2) determine the beneficial and detrimental features of such individual differences to well-being.\
-(3) mapping social affective cognition in complex real-world settings.\
+(3) mapping social affective cognition in complex real-world settings.
 
 Below are the main projects I'm currently working on:
 
