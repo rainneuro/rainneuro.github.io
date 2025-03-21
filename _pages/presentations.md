@@ -5,6 +5,12 @@ permalink: /presentations/
 author_profile: true
 ---
 
+*April 2025* &nbsp; The 17th Annual Meeting of the Social & Affective Neuroscience Society (SANS), Chicago, USA                         
+`Poster` Shifts along large-scale gradients in brain organization predict emotion regulation success and real-world negative thoughts 
+
+*April 2024* &nbsp; The 16th Annual Meeting of the Social & Affective Neuroscience Society (SANS), Toronto, CA                          
+`Poster` Thought patterns in daily life predict emotion regulation flexibility and well-being
+
 *July 2023* &nbsp; Otto Lab, Department of Psychology, McGill University                              
 `Talk` Individual variation in the neurophysiological representation of negative emotions in virtual reality is shaped by sociability
 
@@ -14,7 +20,7 @@ author_profile: true
 *Aug 2022* &nbsp; Southern University of Science & Technology, University of Macau                             
 `Talk` Individual variation in the neurophysiological representation of negative emotions in virtual reality is shaped by sociability
 
-*May 2022* &nbsp; The 14th The 14th Annual Meeting of the Social & Affective Neuroscience Society (SANS)                            
+*May 2022* &nbsp; The 14th The 14th Annual Meeting of the Social & Affective Neuroscience Society (SANS), Online                            
 `Poster` Individual variation in neurophysiological representation of negative emotional experiences is shaped by sociability: A naturalistic neuroimaging approach
 
 *Dec 2021* &nbsp; Center for the Cognitive Science of Language, Beijing Language and Culture University                      
