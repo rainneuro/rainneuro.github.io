@@ -8,7 +8,7 @@ redirect_from:
 author_profile: true
 ---
 
-Hello! I'm Ruien Wang (王睿恩 in Chinese), currently a graduate student of cognitive neuroscience at the Department of Psychology working with [Prof. Anita Tusche](https://www.queensu.ca/psychology/people/anita-tusche) in [Queen's Neuroeconomics Lab](https://anitatusche.com/) at Queen's University, Ontario, Canada.
+Hello! I'm Ruien Wang (王睿恩 in Chinese), currently a Ph.D student in psychology working with [Prof. Anita Tusche](https://www.queensu.ca/psychology/people/anita-tusche) in [Queen's Neuroeconomics Lab](https://anitatusche.com/) at Department of Psychology, Queen's University, Ontario, Canada.
 
 My research programs focus on understanding the individual differences in social cognitive and affective behaviors (i.e., mentalizing, emotion regulation) in both lab and real-world contexts, and how these individual differences influence social functioning (i.e., loneliness, social network) and well-being. To this end, I adopt a multidisciplinary approach combining behavioral paradigms, experience sampling, eye-tracking, neuroimaging, and computational modeling. Here are some key questions that I study:
 
