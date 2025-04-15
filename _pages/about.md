@@ -12,8 +12,8 @@ Hello! I'm Ruien Wang (王睿恩 in Chinese), currently a Ph.D student in psycho
 
 My research programs focus on understanding the individual differences in social cognitive and affective behaviors (i.e., mentalizing, emotion regulation) in both lab and real-world contexts, and how these individual differences influence social functioning (i.e., loneliness, social network) and well-being. To this end, I adopt a multidisciplinary approach combining behavioral paradigms, experience sampling, eye-tracking, neuroimaging, and computational modeling. Here are some key questions that I study:
 
-- Why do some people struggle with regulating emotion effectively and flexibly?
-- Why do some people struggle with building and maintaining social connections?
+- Why do some people struggle with flexible and effective emotion regulation?
+- What explains variance in the ability to build and maintain social connections?
 - What neurocognitive processes explain people's ability to understand others (e.g., mentalizing), and how do these processes shape daily social interactions and social functioning?
 - Can we predict people's social cognitive and affective behaviors using spontaneous ongoing thoughts? 
 
