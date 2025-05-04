@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 *April 2025* &nbsp; The 17th Annual Meeting of the Social & Affective Neuroscience Society (SANS), Chicago, USA                         
-`Poster` Shifts along large-scale gradients in brain organization predict emotion regulation success and real-world negative thoughts 
+`Poster` Shifts along large-scale gradients in brain organization predict emotion regulation success and real-world negative affect 
+![sans2025](/images/SANS2025.png "sans2025")
 
 *April 2024* &nbsp; The 16th Annual Meeting of the Social & Affective Neuroscience Society (SANS), Toronto, CA                          
 `Poster` Thought patterns in daily life predict emotion regulation flexibility and well-being
