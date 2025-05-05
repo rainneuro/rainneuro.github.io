@@ -7,6 +7,7 @@ author_profile: true
 
 *April 2025* &nbsp; The 17th Annual Meeting of the Social & Affective Neuroscience Society (SANS), Chicago, USA                         
 `Poster` Shifts along large-scale gradients in brain organization predict emotion regulation success and real-world negative affect 
+
 <img src="/images/SANS2025.png" alt="sans2025" title="sans2025" width="900" />
 
 
