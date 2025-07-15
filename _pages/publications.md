@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Wang, R.**, Janet, R., Morawetz, C., Tusche, A. (2025). Emotion Regulation in the Gradient Framework: Large-Scale Brain Organization Shapes Individual Differences in Reappraisal Success. [[preprint](https://www.biorxiv.org/content/10.1101/2025.07.09.663978v1)]<br><br>
+- **Wang, R.**, Luo, Y., Wang, Y., Zhang, L., Wu, H. (2025). Towards Naturalistic Social Neuroscience: A Multi-level Framework Integrating Real-world Phenotyping, Neurobiology, and Computational Mechanisms. [[preprint](https://osf.io/preprints/psyarxiv/5g86c_v1)]<br><br>
 - Sandhu, T.#, Saju, S.#, **Wang, R.#**, Tusche, A. (In Press). Prosociality and the Brain: Understanding When and Why We Help, Share, and Cooperate. Chapter in Neuroeconomics: Core Topics and Current Directions. Eds. Smith, D., Fareri, D. & Lockwood. Springer Nature (# Equal contribution; joint first author) [[preprint](https://doi.org/10.31234/osf.io/5gtcu_v1)]<br><br>
 - **Wang, R.**, Bas, L., Janet, R., Xu, Y., Smallwood, J., Morawetz, C., Tusche, A. (2025). Patterns of Ongoing Thought Shape Emotion Regulation and Well-Being in Daily Life. [under review at *Affective Science*] [[preprint](https://doi.org/10.31234/osf.io/487uq_v1)]<br><br>
 - Hu, K., **Wang, R.**, Zhao, S., Yin, E., & Wu, H. (2024). The association between social rewards and anxiety: Links from neurophysiological analysis in virtual reality and social interaction game. *NeuroImage*, 299, 120846. [[fulltext](/files/Hu_2024_NeuroImage.pdf)]<br><br>
@@ -15,10 +17,5 @@ author_profile: true
 - Gao, F., **Wang, R.**, Paulo, Armada., Wang, M., Li, H., Yuan, Z. (2022). How the brain encodes the morphological constraints during Chinese word reading: An fNIRS-EEG study. *Cortex*. ISSN 0010-9452, https://doi.org/10.1016/j.cortex.2022.05.016. [[fulltext](/files/morpho_cortex.pdf)]<br><br>
 
 
-
-## Manuscripts in preparation
-- Shifts along large-scale gradients in brain organization predict emotion regulation success and daily negative thoughts 
-- Constructing optimal interaction distance by combining others’ and one’s own using the medial frontal cortex
-- Towards the "Real" or "Natural" social neuroscience: recent advances, new tools, and future directions
 
 
