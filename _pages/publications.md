@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Wang, R.**, Janet, R., Morawetz, C., Tusche, A. (2025). Emotion Regulation in the Gradient Framework: Large-Scale Brain Organization Shapes Individual Differences in Reappraisal Success. [[preprint](https://www.biorxiv.org/content/10.1101/2025.07.09.663978v1)]<br><br>
+- **Wang, R.**, Janet, R., Morawetz, C., Tusche, A. (2025). Emotion Regulation in the Gradient Framework: Large-Scale Brain Organization Shapes Individual Differences in Reappraisal Success. [under review at *PLOS Biology*] [[preprint](https://www.biorxiv.org/content/10.1101/2025.07.09.663978v1)]<br><br>
 - **Wang, R.**, Luo, Y., Wang, Y., Zhang, L., Wu, H. (2025). Towards Naturalistic Social Neuroscience: A Multi-level Framework Integrating Real-world Phenotyping, Neurobiology, and Computational Mechanisms. [[preprint](https://osf.io/preprints/psyarxiv/5g86c_v1)]<br><br>
 - Sandhu, T.#, Saju, S.#, **Wang, R.#**, Tusche, A. (In Press). Prosociality and the Brain: Understanding When and Why We Help, Share, and Cooperate. Chapter in Neuroeconomics: Core Topics and Current Directions. Eds. Smith, D., Fareri, D. & Lockwood. Springer Nature (# Equal contribution; joint first author) [[preprint](https://doi.org/10.31234/osf.io/5gtcu_v1)]<br><br>
 - **Wang, R.**, Bas, L., Janet, R., Xu, Y., Smallwood, J., Morawetz, C., Tusche, A. (2025). Patterns of Ongoing Thought Shape Emotion Regulation and Well-Being in Daily Life. [under review at *Affective Science*] [[preprint](https://doi.org/10.31234/osf.io/487uq_v1)]<br><br>
