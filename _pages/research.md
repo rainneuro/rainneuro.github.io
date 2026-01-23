@@ -13,16 +13,3 @@ Humans are inherently social species, and successfully navigating social environ
 
 
 
-# Ongoing projects:
-
-## Thought pattern, emotion regulation variability, and well-being ###
-`Collaborators:` [Dr. Carmen Morawetz](https://www.affectiveneuro.at/), [Dr. Jonny Smallwood](https://www.thinclab.ca/)
-
-## Large-scale cortical network reconfigurations predict emotion regulation success and real-world negative thoughts
-`Collaborators:` [Dr. Carmen Morawetz](https://www.affectiveneuro.at/)
-
-## Thought pattern, social cognition, and social functioning
-
-## Understanding mentalizing from an evidence accumulation perspective
-
-
